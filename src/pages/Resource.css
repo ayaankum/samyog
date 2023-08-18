@@ -1,0 +1,162 @@
+@import url("https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Montserrat:wght@800&family=Ubuntu:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Montserrat:wght@800&family=Poppins:wght@300&family=Ubuntu:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Montserrat:wght@800&family=Poppins:wght@300;500&family=Ubuntu:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Montserrat:wght@800&family=Poppins:wght@200;300;500&family=Ubuntu:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Goldman&family=Yanone+Kaffeesatz:wght@200&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Goldman&family=Montserrat:wght@800&family=Ubuntu:wght@500&family=Voltaire&family=Wallpoet&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Goldman&family=Montserrat:wght@800&family=Poppins:wght@600&family=Ubuntu:wght@500&family=Voltaire&family=Wallpoet&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Goldman&family=Montserrat:wght@800&family=Poppins:wght@400;600&family=Ubuntu:wght@500&family=Voltaire&family=Wallpoet&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap");
+body {
+  font-family: Arial, sans-serif;
+  /* margin-left: 2rem;
+  margin-right: 2rem; */
+}
+h1 {
+  font-family: "Goldman", sans-serif;
+  font-weight: 700;
+  font-size: 60px;
+}
+.image-text {
+  font-size: 1.4rem;
+}
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+}
+
+.container1 {
+  max-width: 1200px;
+  margin: 0 auto;
+  /* Center the container */
+}
+.image-text {
+  text-align: center;
+  color: #fff;
+  margin-top: 5px;
+}
+.image-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 60px;
+  padding: 20px 20px;
+  /* Padding top and bottom */
+}
+
+.image-item {
+  flex-basis: calc(25% - 60px);
+  /* Each item occupies 25% of the container width minus gap */
+  height: 190px;
+  /* border: 1px solid #ccc; */
+  box-sizing: border-box;
+}
+
+.image-item img {
+  border: 1px solid #ccc;
+  width: 90%;
+  height: 90%;
+  object-fit: cover;
+}
+.image-item img:hover{
+  transition: .3s;
+  transform: scale(1.05);
+}
+.roadTopath{
+    height: 60vh;
+    width: 50vw;
+    margin: 0 auto;
+    background-color: antiquewhite;
+}
+.knwYpth{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    color: aqua;
+    margin-top: 8rem;
+    position: absolute;
+    left: auto;
+    padding-left: 2rem;
+    text-decoration: underline;
+}
+.course{
+  font-family: 'Goldman', cursive;
+  color: white;
+}
+
+@media screen and (max-width: 768px) {
+  .image-item {
+    flex-basis: calc(50% - 10px);
+    /* On smaller screens, each item occupies 50% of the container width minus gap */
+  }
+}
+
+/* notes */
+
+.tablepart {
+    width: 80vh;
+  }
+.notes{
+    color: aqua;
+    color: rgba(32, 231, 244, 0.9);
+    font-family: Goldman;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    position: absolute;
+    left: auto;
+    padding-left: 2rem;
+    /* margin-top: 8rem; */
+}
+
+table {
+    border-collapse: collapse; 
+   border-spacing: 0;
+    width: 80%;
+     border: 1px solid #000000;
+    margin-top: 4rem;
+    /* margin-left: 4rem; */
+    
+  }
+  
+  th,
+  td {
+    text-align: left;
+    padding: 8px;
+    color: #ffffff;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    
+  }
+  
+  tr:nth-child(even) {
+    background-color: #000000;
+  }
+  .notesBtn {
+    background-color: #20e7f4;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 15px;
+    margin-right: 4rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    height: 45px;
+    width: 100px;
+  }
+  
+  .notesBtn:hover {
+    background-color: #4bb96a;
+  }
+  
+ .noteslink{
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+  }
+  .notesmain{
+    margin-top: 6rem;
+    overflow-x: hidden;
+  }

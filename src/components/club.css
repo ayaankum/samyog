@@ -1,0 +1,358 @@
+@import url('https://fonts.googleapis.com/css2?family=Goldman&family=Yanone+Kaffeesatz:wght@200&display=swap');
+
+.byn{
+  color: aqua;
+  font-family: 'Goldman', cursive;
+  font-size: 4rem;
+}
+.semi-circle{
+    width: 20rem;
+    height: 10rem;
+    border-radius: 50% 50% 0 0 / 100% 100% 0 0;
+    border: 2px solid cyan;
+    border-bottom: 0;
+    transform: rotate(-90deg);
+    margin-top: 12rem;
+}
+.semi-circle1{
+    width: 20rem;
+    height: 10rem;
+    border-radius: 50% 50% 0 0 / 100% 100% 0 0;
+    border: 2px solid cyan;
+    border-bottom: 0;
+    transform: rotate(90deg);
+    margin-top: 12rem;
+    margin-left: -9rem;
+}
+.lineL1{
+    position: absolute;
+    margin-top: 9rem;
+    margin-right: 23rem;
+    height: 2px;
+    width: 7rem;
+    background-color: cyan;
+    transform: rotate(40deg);
+}
+.lineL2{
+    position: absolute;
+    margin-top: 13rem;
+    margin-right: 27.5rem;
+    height: 2px;
+    width: 7.5rem;
+    background-color: cyan;
+    transform: rotate(20deg);
+}
+.lineL3{
+    position: absolute;
+    margin-top: 17.5rem;
+    margin-right: 28.3rem;
+    height: 2px;
+    width: 7rem;
+    background-color: cyan;
+    transform: rotate(0deg);
+}
+.lineL4{
+    position: absolute;
+    margin-top: 22rem;
+    margin-right: 26.7rem;
+    height: 2px;
+    width: 7.5rem;
+    background-color: cyan;
+    transform: rotate(-20deg);
+}
+.lineL5{
+    position: absolute;
+    margin-top: 25.5rem;
+    margin-right: 22.2rem;
+    height: 2px;
+    width: 7rem;
+    background-color: cyan;
+    transform: rotate(-42deg);
+}
+.lineR1{
+    position: absolute;
+    margin-top: 9rem;
+    margin-left: 23rem;
+    height: 2px;
+    width: 7rem;
+    background-color: cyan;
+    transform: rotate(140deg);
+}
+.lineR2{
+    position: absolute;
+    margin-top: 13rem;
+    margin-left: 27.5rem;
+    height: 2px;
+    width: 7.5rem;
+    background-color: cyan;
+    transform: rotate(-20deg);
+}
+.lineR3{
+    position: absolute;
+    margin-top: 17.5rem;
+    margin-left: 28.3rem;
+    height: 2px;
+    width: 7rem;
+    background-color: cyan;
+    transform: rotate(0deg);
+}
+.lineR4{
+    position: absolute;
+    margin-top: 22rem;
+    margin-left: 26.7rem;
+    height: 2px;
+    width: 7.5rem;
+    background-color: cyan;
+    transform: rotate(20deg);
+}
+.lineR5{
+    position: absolute;
+    margin-top: 25.5rem;
+    margin-left: 22.2rem;
+    height: 2px;
+    width: 7rem;
+    background-color: cyan;
+    transform: rotate(42deg);
+}
+.circle{
+    margin-top: 15px;
+    height: 50vh;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    
+}
+.main-c{
+    display: grid;
+    place-items:center;
+    margin-top: 8vh;
+}
+.samLogo img{
+    position: absolute;
+    width: 19rem;
+    height: 17rem;
+    left:41rem;
+    margin-top: 8.5rem;
+}
+.mp-cl{
+    padding-top: 3px;
+    padding-left: 15px;
+    font-size: 1.1rem;
+    font-family: 'Goldman', cursive;
+}
+.mp-cl-aiml{
+  padding-top: 9px;
+  padding-left: 27px;
+  font-size: 1.3rem;
+  font-family: 'Goldman', cursive;
+}
+.mp-cl-iot{
+  padding-top: 9px;
+  padding-left: 27px;
+  font-size: 1.3rem;
+  font-family: 'Goldman', cursive;
+}
+
+.mp-cl-web{
+  padding-top: 5px;
+    padding-left: 6px;
+    font-size: 0.8rem;
+    font-family: 'Goldman', cursive;
+}
+.mp-cl-compcode{
+  padding-top: 7px;
+  padding-left: 6px;
+  font-size: 0.9rem;
+  font-family: 'Goldman', cursive;
+}
+.mp-cl-commuser{
+  padding-top: 3px;
+    padding-left: 9px;
+    font-size: 1rem;
+    font-family: 'Goldman', cursive;
+}
+
+.clubBtnL1 img{
+    position: absolute;
+    height: 3rem;
+    width: 3.5rem;
+    top: .15rem;
+    left: 7.4rem;
+}
+.clubBtnL2 img{
+    position: absolute;
+    height: 3rem;
+    width: 3.3rem;
+    top: .15rem;
+    left: 7.7rem;
+}
+.clubBtnL3 img{
+    position: absolute;
+    height: 3rem;
+    width: 3.3rem;
+    top: .15rem;
+    left: 7.7rem;
+}
+.clubBtnL4 img{
+    position: absolute;
+    height: 3rem;
+    width: 3.3rem;
+    top: .15rem;
+    left: 7.7rem;
+}
+.clubBtnL5 img{
+    position: absolute;
+    height: 3rem;
+    width: 3.3rem;
+    top: .15rem;
+    left: 7.7rem;
+}
+.clubBtnL1{
+    position: absolute;
+    color: black;
+    display: flex;
+    left: 25rem;
+    margin-top: 4.5rem;
+    border-radius: 35px;
+    border:3px solid rgb(25, 67, 233);
+    height: 4rem;
+    width: 12rem;
+    background-color: rgb(80, 152, 234);
+}
+.clubBtnL2{
+    position: absolute;color: black;
+    display: flex;
+    left: 22rem;
+    margin-top: 10rem;
+    border-radius: 35px;
+    border:3px solid rgb(25, 67, 233);
+    height: 4rem;
+    width: 12rem;
+    background-color: rgb(80, 152, 234);
+}
+.clubBtnL3{
+    display: flex;color: black;
+    position: absolute;
+    left: 21rem;
+    margin-top: 15.5rem;
+    border-radius: 35px;
+    border:3px solid rgb(25, 67, 233);
+    height: 4rem;
+    width: 12rem;
+    background-color: rgb(80, 152, 234);
+}
+.clubBtnL4{
+    display: flex;color: black;
+    position: absolute;
+    left: 22rem;
+    margin-top: 21.5rem;
+    border-radius: 35px;
+    border:3px solid rgb(25, 67, 233);
+    height: 4rem;
+    width: 12rem;
+    background-color: rgb(80, 152, 234);
+}
+.clubBtnL5{
+    display: flex;color: black;
+    position: absolute;
+    left: 26rem;
+    margin-top: 27rem;
+    border-radius: 35px;
+    border:3px solid rgb(25, 67, 233);
+    height: 4rem;
+    width: 12rem;
+    background-color: rgb(80, 152, 234);
+}
+
+
+
+.clubBtnR1 img{
+  position: absolute;
+  height: 3rem;
+    width: 3.3rem;
+    top: .15rem;
+    left: 7.7rem;
+}
+.clubBtnR2 img{
+  position: absolute;
+  height: 3rem;
+    width: 3.3rem;
+    top: .15rem;
+    left: 7.7rem;
+}
+.clubBtnR3 img{
+  position: absolute;
+  height: 3rem;
+  width: 3.3rem;
+  top: .15rem;
+  left: 7.7rem;
+}
+.clubBtnR4 img{
+  position: absolute;
+  height: 3rem;
+    width: 3.3rem;
+    top: .15rem;
+    left: 7.7rem;
+}
+.clubBtnR5 img{
+  position: absolute;
+  height: 3rem;
+  width: 3.3rem;
+  top: .15rem;
+  left: 7.7rem;
+}
+.clubBtnR1{
+  position: absolute;color: black;
+  display: flex;
+  left: 64rem;
+  margin-top: 4.5rem;
+  border-radius: 35px;
+  border:3px solid rgb(25, 67, 233);
+  height: 4rem;
+  width: 12rem;
+  background-color: rgb(80, 152, 234);
+}
+.clubBtnR2{
+  position: absolute;color: black;
+  display: flex;
+  left: 67rem;
+  margin-top: 10rem;
+  border-radius: 35px;
+  border:3px solid rgb(25, 67, 233);
+  height: 4rem;
+  width: 12rem;
+  background-color: rgb(80, 152, 234);
+}
+.clubBtnR3{
+  display: flex;color: black;
+  position: absolute;
+  left: 68rem;
+  margin-top: 15.5rem;
+  border-radius: 35px;
+  border:3px solid rgb(25, 67, 233);
+  height: 4rem;
+  width: 12rem;
+  background-color: rgb(80, 152, 234);
+}
+.clubBtnR4{
+  display: flex;color: black;
+  position: absolute;
+  left: 67rem;
+  margin-top: 21.5rem;
+  border-radius: 35px;
+  border:3px solid rgb(25, 67, 233);
+  height: 4rem;
+  width: 12rem;
+  background-color: rgb(80, 152, 234);
+}
+.clubBtnR5{
+  display: flex;color: black;
+  position: absolute;
+  left: 64rem;
+  margin-top: 27rem;
+  border-radius: 35px;
+  border:3px solid rgb(25, 67, 233);
+  height: 4rem;
+  width: 12rem;
+  background-color: rgb(80, 152, 234);
+}

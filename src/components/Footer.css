@@ -1,0 +1,120 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;800&display=swap");
+footer {
+  background-color: #232323;
+  color: #fff;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+/* body {
+  margin-left: 0vh;
+  margin-right: 0vh;
+} */
+.container {
+  margin: auto auto;
+  padding: 0 20px;
+  align-items: center;
+  width: 100%;
+}
+
+.footer-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 20px;
+  padding-left: 35px;
+}
+
+.footer-column {
+  flex: 1;
+  padding: 0 10px;
+}
+
+.para {
+  color: #fff;
+  margin-bottom: 10px;
+  font-size: 1.25rem;
+  font-family: "Poppins", sans-serif;
+  margin-top: 5px;
+}
+
+.email-link {
+  color: #fff;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.email-link:hover {
+  color: #20e7f4;
+}
+
+input[type="email"] {
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 10px;
+  height: 5vh;
+  width: 50vh;
+  font-size: 15px;
+}
+
+.subscribe-button {
+  background-color: #20e7f4;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin-left: 22.5rem;
+  height: 4.5rem;
+  width: 20vh;
+  font-family: "Poppins", sans-serif;
+}
+.teamPL{
+  text-decoration: none;
+  color: #20e7f4;
+}
+.subscribe-button:hover{
+    background-color: #20f475;
+}
+#visitUs{
+    margin-right: 16rem;
+}
+#styUpToDate{
+    margin-right: 23rem;
+}
+#par123{
+    margin-left: 6.3rem;
+}
+#mrIFJss{
+    margin-right: 4.8rem;
+}
+.social-icon {
+  padding: 10px;
+  height: 25px;
+  width: 25px;
+  color: #fff;
+  transition: color 0.3s;
+  margin-left: 0px;
+  margin-right: 20px;
+}
+
+.social-icon:hover {
+  color: #20e7f4;
+}
+.H3 {
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+}
+.linkF {
+  font-size: 1.25rem;
+  margin-top: 5px;
+  font-family: "Poppins", sans-serif;
+}
+.footer1 {
+  background-color: #fff;
+  color: black;
+}

@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Goldman&family=Poppins:wght@500&display=swap");
+
+header{
+  display: flex;
+  gap: 210px;
+  justify-content: space-around;
+  align-items: center;
+  padding: 30px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 600;
+  transition: all 0.5s ease;
+  height: 6rem;
+}
+
+.logo {
+  cursor: pointer;
+}
+.COMPANY {
+  font-family: "Goldman", cursive;
+  font-size: 2.5rem;
+}
+nav ul {
+  gap: 20px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+.linkT{
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+  color: rgb(255, 255, 255);
+  font-size: 1.1rem;
+}
+.linkT:hover{
+  color: aqua;
+  transition: 0.7s;
+}
+
+nav li {
+  display: block;
+  margin-left: 20px;
+}
+
+section {
+  height: 100vh;
+}
+
+#hero {
+  /* background-image: url("1.jpg"); */
+  background-size: cover;
+  background-position: center;
+}
+
+
+header.sticky {
+  background-color: black;
+  color: rgb(255, 255, 255);
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+}
+
+header.hidden {
+  visibility: hidden;
+}

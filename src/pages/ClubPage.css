@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Montserrat:wght@800&family=Ubuntu:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Montserrat:wght@800&family=Poppins:wght@300&family=Ubuntu:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Montserrat:wght@800&family=Poppins:wght@300;500&family=Ubuntu:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Montserrat:wght@800&family=Poppins:wght@200;300;500&family=Ubuntu:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+@import url("");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap");
+/* body {
+  background-color: black;
+  margin-top: -15.4px;
+} */
+.mainCont{
+    /* margin-top: 10px; */
+    padding-top: 7vh;
+    position: relative;
+}
+.sai {
+  font-family: "Bruno Ace SC", sans-serif;
+  font-weight: 400;
+  font-size: 50px;
+  /* margin-left: -14rem; */
+  display: flex;
+  align-items: start;
+}
+.sai2 {
+  font-family: "Bruno Ace SC", sans-serif;
+  font-weight: 400;
+  font-size: 25px;
+}
+.sai5 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  text-align: start;
+}
+.sai7 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+}
+.sai6 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  color: #fff;
+}
+h1,
+h3 {
+  color: #fff;
+}
+h2 {
+  color: #fff;
+}
+.helo {
+  color: #fff;
+  font-family: "poppins", sans-serif;
+  font-weight: 200;
+}
+.sai4 {
+  font-family: "poppins", sans-serif;
+  font-weight: 400;
+  text-align: start;
+}
+.ff {
+  height: 20vh;
+  width: 20vh;
+  margin-right: 3vh;
+  /* margin-top: 1.5vh; */
+  /* margin-bottom: 4.5vh; */
+}
+
+.ob {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000000;
+  float: left;
+  display: block;
+  color: white;
+}
+
+p {
+  color: white;
+  font-family: "poppins", sans-serif;
+  font-weight: 500;
+  text-align: start;
+}
+.sai3 {
+
+  font-family: "poppins", sans-serif;
+  font-weight: 200;
+  font-size: 18px;
+  text-align: start;
+}
+.footClub{
+  margin-top: 5rem;
+}

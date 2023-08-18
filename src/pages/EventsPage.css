@@ -1,0 +1,17 @@
+.h1Eve{
+    color: aliceblue;
+}
+.evePage{
+    margin-top: 20rem;
+    height: 20rem;
+}
+.eveHom{
+    cursor: pointer;
+    height: 3rem;
+    width: 5rem;
+    margin-top: 2rem;
+    background-color: aqua;
+    border: none;
+    border-radius: 3px;
+    font-weight: bold;
+}

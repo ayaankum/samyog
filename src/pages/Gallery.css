@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Goldman&display=swap");
+/* Gallery.css */
+.gallery-container {
+  /* padding: 20px; */
+  text-align: center;
+}
+
+.gallery-header {
+  font-size: 44px;
+  font-family: "Goldman", cursive;
+  font-size: 60px;
+  color: #fff;
+  margin-bottom: 20px;
+}
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+}
+
+.image {
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.3s ease;
+  margin: 30px;
+}
+
+.image img {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+.image:hover {
+  transform: scale(1.1);
+  box-shadow: 
+  5px 5px 16px 0  rgba(97, 229, 255, 0.25),
+  -5px -5px 12px 0 rgba(97, 229, 255, 0.3);
+}
