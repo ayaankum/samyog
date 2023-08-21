@@ -10,13 +10,8 @@
   margin-top: 3rem;
 }
 
-body {
-  background-color: black;
-}
 
-.mainAbout{
-    /* margin-top: 5vh; */
-}
+
 
 .footRes{
   margin-top: 10rem;
@@ -41,8 +36,8 @@ body {
 } */
 
 .cc {
-  height: 30vh;
-  width: 70vh;
+  height: 18rem;
+  width: 26rem;
   margin-left: 5vh;
   margin-right: 5vh;
 }
@@ -53,7 +48,13 @@ body {
 }
 
 .textboxl{
-  margin-left: 4rem;
+  /* margin-left: 4rem; */
+  width: 60rem;
+  font-size: 1.2rem;
+}
+.textbox{
+  width: 60rem;
+  font-size: 1.2rem;
 }
 
 .achievement{

@@ -29,7 +29,7 @@ function Gallery() {
         <div class="image">
           <img src="7G.webp" alt="Image 1"  loading="lazy"/>
         </div>
-        <div class="image">
+        <div  id="g1" class="image">
           <img src="8G1.webp" alt="Image 2" loading="lazy" />
         </div>
         <div class="image">
@@ -47,7 +47,7 @@ function Gallery() {
         <div class="image">
           <img src="11G.webp" alt="Image 1" loading="lazy"/>
         </div>
-        <div class="image">
+        <div id="g" class="image">
           <img src="12G.webp" alt="Image 2" loading="lazy"/>
         </div>
         <div class="image">

@@ -8,10 +8,12 @@ import Resource from './pages/Resource';
 import Gallery from './pages/Gallery';
 import EventsPage from './pages/EventsPage';
 import Team from './pages/Team';
+import ScrollToTop from './components/ScrollToTop';
 
 function App() {
   return (
     <>
+    <ScrollToTop/>
     <Routes>
       <Route path="/" element={<HomeMain/>}/>
       <Route path="/resources" element={<Resource/>}/>

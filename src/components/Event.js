@@ -66,8 +66,9 @@ const Events = () => {
           </div>
           <div className="col-2 ha">
             <h5>
-              <b>2023 Nebraska Football Road</b>
+              <b> Student development program</b>
             </h5>
+            <h6>OPERATING SYSTEM</h6>
             <h7>🕗8:00 AM</h7>
             <br />
             <h7>📌Memorial Stadium</h7>
@@ -80,7 +81,7 @@ const Events = () => {
       <div className="row1">
         <center>
           <Link to="/eventspage">
-          <button to="/eventspage" className="more-event">
+          <button className="button-53">
             more events
           </button>
           </Link>

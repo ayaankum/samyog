@@ -22,9 +22,14 @@
   position: relative;
   overflow: hidden;
   transition: transform 0.3s ease;
-  margin: 30px;
+  margin: 0px;
 }
-
+#g{
+    height: 89%;
+}
+#g1{
+  height: 89%;
+}
 .image img {
   width: 100%;
   height: auto;
@@ -35,6 +40,6 @@
 .image:hover {
   transform: scale(1.1);
   box-shadow: 
-  5px 5px 16px 0  rgba(97, 229, 255, 0.25),
-  -5px -5px 12px 0 rgba(97, 229, 255, 0.3);
+  5px 5px 16px 0  rgba(33, 38, 40, 0.4),
+  -5px -5px 12px 0 rgba(33, 38, 40, 0.4);
 }

@@ -78,7 +78,7 @@ function Footer() {
             </p>
           </div>
           <div className="footer-column">
-            <p className="para" style={{ fontSize: "1.15rem" }}>Made with passion by <Link to="team" className="teamPL">AppX</Link></p> 
+            <p className="para" style={{ fontSize: "1.15rem" }}>Made with passion by <Link to="/team" className="teamPL">AppX</Link></p> 
           </div>
           <div className="footer-column social-icons">
             <FontAwesomeIcon icon={faWhatsapp} className="social-icon" />

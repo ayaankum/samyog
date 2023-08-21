@@ -6,7 +6,7 @@ function EventsPage() {
     <>
     <div className='evePage'>
     <h1 className='h1Eve'>
-        UNDER DEVELOPMENT
+        KNITTING THE PAGE
     </h1>
     <Link to="/">
         <button class="eveHom">Home</button>

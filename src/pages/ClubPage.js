@@ -17,7 +17,7 @@ const ClubPage = () => {
         </h2>
         <h2 className="sai7" style={{ color: "aqua" }}>
           Main Co-ordinators:
-          <b className="sai6"> SATWIK G VAIDYA,  LALITHA SHREE C P  </b>
+          <b className="sai6"> LALITHA SHREE C P,  SATWIK G VAIDYA  </b>
         </h2>
         <br />
         <hr />

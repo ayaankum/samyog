@@ -100,26 +100,26 @@ const About = () => (
       <center>
         <div className="row-about">
           <div className="images-about">
-            <img src="1.jpeg" />
-            <img src="1.jpeg" />
-            <img src="1.jpeg" />
-            <img src="1.jpeg" />
-            <img src="1.jpeg" />
-            <img src="1.jpeg" />
-            <img src="1.jpeg" />
-            <img src="1.jpeg" />
-            <img src="1.jpeg" />
+            <img src="Picture1.webp" />
+            <img src="Picture2.webp" />
+            <img src="Picture3.webp" />
+            <img src="Picture4.webp" />
+            <img src="Picture5.webp" />
+            <img src="Picture6.webp" />
+            <img src="Picture7.webp" />
+            <img src="Picture8.webp" />
+            <img src="Picture9.webp" />
           </div>
         </div>
 
         <div className="row-about">
           <div className="images-about">
-            <img src="1.jpeg" />
-            <img src="1.jpeg" />
-            <img src="1.jpeg" />
-            <img src="1.jpeg" />
-            <img src="1.jpeg" />
-            <img src="1.jpeg" />
+            <img src="Picture10.webp" />
+            <img src="Picture11.webp" />
+            <img src="Picture12.webp" />
+            <img src="Picture13.webp" />
+            <img src="Picture14.webp" />
+            <img src="Picture15.webp" />
             <img src="1.jpeg" />
             <img src="1.jpeg" />
             <img src="1.jpeg" />

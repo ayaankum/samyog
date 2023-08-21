@@ -14,56 +14,78 @@ const Team = () => {
         <MovieCard
           posterImage="satwik.jpg"
           title="SATWIK"
-          description="Kyouko Hori is a bright and popular high school student, in contrast to her classmate Izumi Miyamura, a gloomy and seemingly nerdy, glasses-wearing boy. At home, Hori is a homebody who dresses down and looks after her younger brother, Souta. She takes every attempt to hide this from her classmates, as to not disrupt her social status and cause others to worry."
+          description1="The founder who has done nothing other than screwing"
+          designation=""
+          description2=""
         />
         <MovieCard
           posterImage="ayaan.jpg"
           title="AYAAN"
-          description="Kyouko Hori is a bright and popular high school student, in contrast to her classmate Izumi Miyamura, a gloomy and seemingly nerdy, glasses-wearing boy. At home, Hori is a homebody who dresses down and looks after her younger brother, Souta. She takes every attempt to hide this from her classmates, as to not disrupt her social status and cause others to worry."
+          description1=" Part time "
+          designation="Development lead "
+          description2="full time procastinator"
         />
         <MovieCard
-          posterImage="1.jpeg"
+          posterImage="Nandan.jpg"
           title="NANDAN"
-          description="Kyouko Hori is a bright and popular high school student, in contrast to her classmate Izumi Miyamura, a gloomy and seemingly nerdy, glasses-wearing boy. At home, Hori is a homebody who dresses down and looks after her younger brother, Souta. She takes every attempt to hide this from her classmates, as to not disrupt her social status and cause others to worry."
+          description1="Design Lead"
+          designation=""
+          description2=""
         />
       </div>
       <div>
         
         <MovieCard
-          posterImage="1.jpeg"
+          posterImage="bhumika.jpg"
           title="BHUMIKA"
-          description="Kyouko Hori is a bright and popular high school student, in contrast to her classmate Izumi Miyamura, a gloomy and seemingly nerdy, glasses-wearing boy. At home, Hori is a homebody who dresses down and looks after her younger brother, Souta. She takes every attempt to hide this from her classmates, as to not disrupt her social status and cause others to worry."
+          description1="I donno"
+          designation=""
+          description2=""
         />
         <MovieCard
           posterImage="sahil.jpg"
           title="SAHIL"
-          description="Kyouko Hori is a bright and popular high school student, in contrast to her classmate Izumi Miyamura, a gloomy and seemingly nerdy, glasses-wearing boy. At home, Hori is a homebody who dresses down and looks after her younger brother, Souta. She takes every attempt to hide this from her classmates, as to not disrupt her social status and cause others to worry."
+          description1="Developer, who mastered chatgpt and Claude by this project."
+          designation=""
+          description2=""
         />
         <MovieCard
-          posterImage="1.jpeg"
+          posterImage="praniti.jpg"
           title="PRANITHI"
-          description="Kyouko Hori is a bright and popular high school student, in contrast to her classmate Izumi Miyamura, a gloomy and seemingly nerdy, glasses-wearing boy. At home, Hori is a homebody who dresses down and looks after her younger brother, Souta. She takes every attempt to hide this from her classmates, as to not disrupt her social status and cause others to worry."
+          description1="Designer"
+          designation=""
+          description2=""
         />
       </div>
       <div>
         <MovieCard
-          posterImage="1.jpeg"
+          posterImage="arpitha.jpg"
           title="ARPITHA"
-          description="Kyouko Hori is a bright and popular high school student, in contrast to her classmate Izumi Miyamura, a gloomy and seemingly nerdy, glasses-wearing boy. At home, Hori is a homebody who dresses down and looks after her younger brother, Souta. She takes every attempt to hide this from her classmates, as to not disrupt her social status and cause others to worry."
+          description="HR"
         />
         <MovieCard
-          posterImage="1.jpeg"
-          title="SHERYA"
-          description="Kyouko Hori is a bright and popular high school student, in contrast to her classmate Izumi Miyamura, a gloomy and seemingly nerdy, glasses-wearing boy. At home, Hori is a homebody who dresses down and looks after her younger brother, Souta. She takes every attempt to hide this from her classmates, as to not disrupt her social status and cause others to worry."
+          posterImage="shreya.jpg"
+          title="SHREYA"
+          description="Dev"
         />
         <div class="last2">
         <MovieCard
           posterImage="uttam.jpg"
           title="UTTAM"
-          description="Kyouko Hori is a bright and popular high school student, in contrast to her classmate Izumi Miyamura, a gloomy and seemingly nerdy, glasses-wearing boy. At home, Hori is a homebody who dresses down and looks after her younger brother, Souta. She takes every attempt to hide this from her classmates, as to not disrupt her social status and cause others to worry."
+          description="Designer"
         />
         </div> 
       </div>
+      <MovieCard
+          posterImage="lalitha.jpg"
+          title="LALITHA"
+          description="Designer"
+        />
+        <MovieCard
+          posterImage="vivek.jpeg"
+          title="VIVEK"
+          description="Designer"
+        />
     </div>
     <Footer/>
     </>

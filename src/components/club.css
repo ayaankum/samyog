@@ -5,6 +5,7 @@
   font-family: 'Goldman', cursive;
   font-size: 4rem;
 }
+
 .semi-circle{
     width: 20rem;
     height: 10rem;
@@ -356,3 +357,11 @@
   width: 12rem;
   background-color: rgb(80, 152, 234);
 }
+
+
+
+/* @media only screen and (min-width: 1200px ){
+ .samLogo img{
+  margin-left:5.6rem;
+ }
+} */

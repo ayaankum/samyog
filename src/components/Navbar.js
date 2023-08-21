@@ -23,16 +23,15 @@ const Navbar = () => {
       className={`${isSticky ? "sticky" : ""} ${isHidden ? "hidden" : ""}`}
     >
         <Link to="/" className="logo">
-        <img style={{ width: "60px", height: "60px" }} src="ro-logo1.png" href="#" />
+        <img style={{ width: "60px", height: "55px" }} src="ro-logo1.png" href="#" />
         </Link>
-      <div className="COMPANY">SAMYOG</div>
+      <div className="COMPANY button-49">SAMYOG</div>
       <nav>
         <ul>
           <li>
-            <Link to="/gallery" className="linkT"> 
-            GALLERY
+          <Link to="/aboutus" className="linkT"> 
+            ABOUT US
             </Link>
-              
           </li>
           <li>
           <Link to="/resources" className="linkT"> 
@@ -40,8 +39,9 @@ const Navbar = () => {
             </Link>
           </li>
           <li>
-          <Link to="/aboutus" className="linkT"> 
-            ABOUT US
+          
+            <Link to="/gallery" className="linkT"> 
+            GALLERY
             </Link>
           </li>
         </ul>
@@ -53,3 +53,7 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
+
+
+/* CSS */

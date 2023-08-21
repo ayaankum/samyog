@@ -29,6 +29,10 @@
 
   #rotate-logo{
     margin-top: 2rem;
+
+  }
+  @media screen {
+    
   }
   
   #learn-more a:hover {
