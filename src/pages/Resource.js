@@ -14,49 +14,49 @@ const Resource = () => {
       <div className="container1">
         <div className="image-grid">
           <div className="image-item">
-            <a href="#">
+            <a href="https://www.youtube.com/watch?v=KnvbUiSxvbM&list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e">
               <img src="Cprogramming.png" alt="Image 1" />
             </a>
             <div className="image-text">C programming</div>
           </div>
           <div className="image-item">
-            <a href="#">
+            <a href="https://www.youtube.com/watch?v=xk4_1vDrzzo&pp=ygUWY29tcGxldGUgZ3VpZGUgdG8gamF2YQ%3D%3D">
               <img src="Javares.png" alt="Image 1" />
             </a>
             <div className="image-text">Java programming</div>
           </div>
           <div className="image-item">
-            <a href="path/to/image1.jpg">
+            <a href="https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3">
               <img src="pythonres.png" alt="Image 1" />
             </a>{" "}
             <div className="image-text">Python programming</div>
           </div>
           <div className="image-item">
-            <a href="path/to/image1.jpg">
+            <a href="https://www.youtube.com/watch?v=-TkoO8Z07hI">
               <img src="C++res.png" alt="Image 1" />
             </a>{" "}
             <div className="image-text">C++ programming</div>
           </div>
           <div className="image-item">
-            <a href="path/to/image1.jpg">
+            <a href="https://www.youtube.com/playlist?list=PL9ooVrP1hQOGHNaCT7_fwe9AabjZI1RjI">
               <img src="aires.png" alt="Image 1" />
             </a>{" "}
             <div className="image-text">ARTIFICIAL INTELLIGENCE</div>
           </div>
           <div className="image-item">
-            <a href="path/to/image1.jpg">
+            <a href="https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v">
               <img src="MLres.png" alt="Image 1" />
             </a>{" "}
             <div className="image-text">MACHINE LEARNING</div>
           </div>
           <div className="image-item">
-            <a href="path/to/image1.jpg">
+            <a href="https://www.youtube.com/watch?v=h0gWfVCSGQQ&pp=ygUVY29tcGxldGUgZ3VpZGUgdG8gSU9U">
               <img src="IOTres.png" alt="Image 1" />
             </a>{" "}
             <div className="image-text">INTERNET OF THINGS</div>
           </div>
           <div className="image-item">
-            <a href="path/to/image1.jpg">
+            <a href="https://www.youtube.com/watch?v=lpa8uy4DyMo&list=PL9ooVrP1hQOGPQVeapGsJCktzIO4DtI4_">
               <img src="Cyberres.png" alt="Image 1" />
             </a>{" "}
             <div className="image-text">CYBER SECURITY</div>
@@ -302,7 +302,7 @@ const Resource = () => {
             </td>
             <td>
               <button class="notesBtn">
-                <a class="noteslink" href="https://drive.google.com/drive/folders/1Hdgfi0Mtrq43qzNoDeVvhVVHqACYd2gN?usp=sharing">
+                <a class="noteslink" href="https://drive.google.com/drive/folders/1XkjkG2cTO4v1j4remfBvkJa3ixpwzaKm?usp=sharing">
                   <b>VIEW</b>
                 </a>
               </button>
@@ -312,6 +312,7 @@ const Resource = () => {
         <br/>
       </div>
     </div>
+    <br/><br/>
     <Footer/>
     </div>
   );

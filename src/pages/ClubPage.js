@@ -15,9 +15,15 @@ const ClubPage = () => {
           opportunities to engage in extracurricular activities outside of their
           regular academic curriculum.
         </h2>
+        <br/>
+        <a href="https://drive.google.com/file/d/12u3kzxFmB_VCA6FyxR_827DyUOSQu1Yy/view?usp=sharing" class="faculty">MEET OUR ESTEEMED FACULTY</a>
+        <h2 className="sai71" style={{ color: "aqua" }}>
+          Faculty Co-ordinators:
+          <b className="sai6"> SUKRUTHA C B, DUMMY NAME</b>
+        </h2>
         <h2 className="sai7" style={{ color: "aqua" }}>
-          Main Co-ordinators:
-          <b className="sai6"> LALITHA SHREE C P,  SATWIK G VAIDYA  </b>
+          Student Co-ordinators:
+          <b className="sai6"> LALITHA SHREE C P, SATWIK G VAIDYA  </b>
         </h2>
         <br />
         <hr />
@@ -36,12 +42,10 @@ const ClubPage = () => {
 
           <h2 className="sai3">OBJECTIVES:</h2>
           <p>
-            ➤ Making impactful difference in society and create positive
-            changes.
+            ➤ Our foundation is rooted in service-oriented principles, driven by an unwavering commitment to improving lives and communities through selfless efforts.
           </p>
           <p>
-            ➤ Imparting empathy, compassion, leadership qualities, nurturing
-            communication and team building skills.
+            ➤We aim to create a profound societal impact by fostering empathy, compassion, leadership qualities, communication skills, team building, and a resolute willingness to help, thereby nurturing holistic personal development and positive social change.
           </p>
 
           <h2 className="sai4" style={{ color: "rgb(255, 255, 255)" }}>
@@ -74,7 +78,7 @@ const ClubPage = () => {
             stage fear in students, empowering them to express themselves
             confidently and authentically.
           </p>
-
+          
           <h2 className="sai4" style={{ color: "rgb(255, 255, 255)" }}>
             Co-Ordinators:<b className="sai5"> CHIRAG C, TEJASWINI D</b>
           </h2>
@@ -128,12 +132,10 @@ const ClubPage = () => {
 
           <h2 className="sai3">OBJECTIVES:</h2>
           <p>
-            ➤ Things included in club -web(frontend ,backend) and mobile app
-            development.
+            ➤The club encompasses web development (both frontend and backend) as well as mobile app development, forming the foundation for conducting various activities and projects.
           </p>
           <p>
-            ➤ Based on these we are going to conducts activities and projects.
-            Activities can be in the form of competition, games and quizzes.
+            ➤The club's activities will span a range of engaging formats including competitions, games, and quizzes. One such competition involves creatively presenting textual content and images in an appealing manner. Additionally, participants will be challenged to reconstruct existing websites from scratch based on provided screenshots.
           </p>
 
           <h2 className="sai4" style={{ color: "rgb(255, 255, 255)" }}>
@@ -141,7 +143,7 @@ const ClubPage = () => {
           </h2>
           <br />
           <br />
-          <br/><br/><br/><br/><br/><br/>
+          <br/><br/><br/>
           <hr />
           <center>
           <br />
@@ -217,19 +219,17 @@ const ClubPage = () => {
 
           <h2 className="sai3">OBJECTIVES:</h2>
           <p>
-            ➤ Enhance the collective Analytical skills and contribute to the
-            coding culture
+            ➤The primary goal is to familiarize individuals with the realm of competitive programming, facilitating an understanding of its dynamics and intricacies.
           </p>
           <p>
-            ➤ Comprehend the importance of Code efficiency on the micro level
-            and the difference it makes in the real world
+            ➤The club aims to cultivate a culture of innovative thinking and effective problem-solving, enabling members to address significant challenges in their daily lives. It also focuses on collectively improving analytical skills, fostering a coding culture, and promoting an appreciation for the real-world impact of code efficiency.
           </p>
 
           <h2 className="sai4" style={{ color: "rgb(255, 255, 255)" }}>
             Co-Ordinators:{" "}
             <b className="sai5">AYAAN KUMAR, BHARGAVA S B, NIKHIL RAJ GUPTA</b>
           </h2>
-          <br /><br/><br/><br/><br/>
+          <br /><br/><br/><br/>
           <br/>
           <br />
           <hr />

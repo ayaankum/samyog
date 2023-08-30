@@ -17,7 +17,7 @@ import image5 from "./5.jpeg";
 function Carousel() {
   return (
     <div className="carousel-container">
-      <h1 className="heading">What are we</h1>
+      <h1 className="heading">WHAT ARE WE</h1>
       <Swiper
         effect={'coverflow'}
         grabCursor={true}
@@ -40,26 +40,26 @@ function Carousel() {
         className="swiper_container"
       >
         <SwiperSlide>
-          <img src={image1} alt="slide_image" />
+          <img src="Slice 1.jpg" alt="slide_image" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src={image2} alt="slide_image" />
+          <img src="Slice 2.png" alt="slide_image" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src={image3} alt="slide_image" />
+          <img src="Slice 4.jpg" alt="slide_image" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src={image4} alt="slide_image" />
+          <img src="Slice 3.jpg" alt="slide_image" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src={image5} alt="slide_image" />
+          <img src="Slice 5.jpg" alt="slide_image" />
+        </SwiperSlide>
+        {/* <SwiperSlide>
+          <img src="Slice 1.jpg" alt="slide_image" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src={image1} alt="slide_image" />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img src={image2} alt="slide_image" />
-        </SwiperSlide>
+          <img src="Slice 2.png" alt="slide_image" />
+        </SwiperSlide> */}
 
         <div className="slider-controler">
           <div className="swiper-button-prev slider-arrow">

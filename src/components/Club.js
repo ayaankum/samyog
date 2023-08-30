@@ -69,9 +69,7 @@ function Club(){
             <img  src="Community_serviceC.png" alt="" />
         </Link>
     </div>
-            </div>
-           
-       
+ </div>
     </div>
   );
 };

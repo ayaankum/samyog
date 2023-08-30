@@ -141,6 +141,12 @@
     font-size: 1.1rem;
     font-family: 'Goldman', cursive;
 }
+.faculty{
+  font-family: 'Goldman', cursive;
+  font-size: 1.6rem;
+  color: rgb(80, 152, 234);
+  padding-bottom: 20px;
+}
 .mp-cl-aiml{
   padding-top: 9px;
   padding-left: 27px;
@@ -210,6 +216,7 @@
 }
 .clubBtnL1{
     position: absolute;
+    text-decoration: none;
     color: black;
     display: flex;
     left: 25rem;
@@ -220,8 +227,43 @@
     width: 12rem;
     background-color: rgb(80, 152, 234);
 }
+.clubBtnL1:hover{
+  transition: .6s;
+  background-color: rgb(130, 183, 245);
+}
+.clubBtnL2:hover{
+  transition: .6s;
+  background-color: rgb(130, 183, 245);
+}.clubBtnL3:hover{
+  transition: .6s;
+  background-color: rgb(130, 183, 245);
+}.clubBtnL4:hover{
+  transition: .6s;
+  background-color: rgb(130, 183, 245);
+}.clubBtnL5:hover{
+  transition: .6s;
+  background-color: rgb(130, 183, 245);
+}
+
+.clubBtnR1:hover{
+  transition: .6s;
+  background-color: rgb(130, 183, 245);
+}
+.clubBtnR2:hover{
+  transition: .6s;
+  background-color: rgb(130, 183, 245);
+}.clubBtnR3:hover{
+  transition: .6s;
+  background-color: rgb(130, 183, 245);
+}.clubBtnR4:hover{
+  transition: .6s;
+  background-color: rgb(130, 183, 245);
+}.clubBtnR5:hover{
+  transition: .6s;
+  background-color: rgb(130, 183, 245);
+}
 .clubBtnL2{
-    position: absolute;color: black;
+    position: absolute;color: black;text-decoration: none;
     display: flex;
     left: 22rem;
     margin-top: 10rem;
@@ -232,7 +274,7 @@
     background-color: rgb(80, 152, 234);
 }
 .clubBtnL3{
-    display: flex;color: black;
+    display: flex;color: black;text-decoration: none;
     position: absolute;
     left: 21rem;
     margin-top: 15.5rem;
@@ -243,7 +285,7 @@
     background-color: rgb(80, 152, 234);
 }
 .clubBtnL4{
-    display: flex;color: black;
+    display: flex;color: black;text-decoration: none;
     position: absolute;
     left: 22rem;
     margin-top: 21.5rem;
@@ -254,7 +296,7 @@
     background-color: rgb(80, 152, 234);
 }
 .clubBtnL5{
-    display: flex;color: black;
+    display: flex;color: black;text-decoration: none;
     position: absolute;
     left: 26rem;
     margin-top: 27rem;
@@ -303,7 +345,7 @@
   left: 7.7rem;
 }
 .clubBtnR1{
-  position: absolute;color: black;
+  position: absolute;color: black;text-decoration: none;
   display: flex;
   left: 64rem;
   margin-top: 4.5rem;
@@ -314,7 +356,7 @@
   background-color: rgb(80, 152, 234);
 }
 .clubBtnR2{
-  position: absolute;color: black;
+  position: absolute;color: black;text-decoration: none;
   display: flex;
   left: 67rem;
   margin-top: 10rem;
@@ -325,7 +367,7 @@
   background-color: rgb(80, 152, 234);
 }
 .clubBtnR3{
-  display: flex;color: black;
+  display: flex;color: black;text-decoration: none;
   position: absolute;
   left: 68rem;
   margin-top: 15.5rem;
@@ -336,7 +378,7 @@
   background-color: rgb(80, 152, 234);
 }
 .clubBtnR4{
-  display: flex;color: black;
+  display: flex;color: black;text-decoration: none;
   position: absolute;
   left: 67rem;
   margin-top: 21.5rem;
@@ -347,7 +389,7 @@
   background-color: rgb(80, 152, 234);
 }
 .clubBtnR5{
-  display: flex;color: black;
+  display: flex;color: black;text-decoration: none;
   position: absolute;
   left: 64rem;
   margin-top: 27rem;

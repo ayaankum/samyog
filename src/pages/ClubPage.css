@@ -14,6 +14,17 @@
     padding-top: 7vh;
     position: relative;
 }
+.mainCont p{
+  width: 50vw;
+  text-align: justify;
+  font-size: 1.2rem;
+}
+.faculty{
+  font-family: 'Goldman', cursive;
+  font-size: 1.6rem;
+  color: rgb(80, 152, 234);
+  margin-right: 69.8rem;
+}
 .sai {
   font-family: "Bruno Ace SC", sans-serif;
   font-weight: 400;
@@ -32,9 +43,17 @@
   font-weight: 600;
   text-align: start;
 }
+.sai71{
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 13px;
+  text-align: left;
+}
 .sai7 {
   font-family: "Poppins", sans-serif;
   font-weight: 400;
+  font-size: 13px;
+  text-align: left;
 }
 .sai6 {
   font-family: "Poppins", sans-serif;
@@ -52,11 +71,14 @@ h2 {
   color: #fff;
   font-family: "poppins", sans-serif;
   font-weight: 200;
+  text-align: start;
+  width: 60vw;
 }
 .sai4 {
   font-family: "poppins", sans-serif;
   font-weight: 400;
   text-align: start;
+  padding-top: 10px;
 }
 .ff {
   height: 20vh;
@@ -89,6 +111,7 @@ p {
   font-weight: 200;
   font-size: 18px;
   text-align: start;
+  opacity: 0;
 }
 .footClub{
   margin-top: 5rem;

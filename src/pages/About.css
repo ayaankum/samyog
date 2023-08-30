@@ -10,7 +10,10 @@
   margin-top: 3rem;
 }
 
-
+.aci{
+  font-size: 4rem;
+  padding-bottom: 14px;
+}
 
 
 .footRes{
@@ -56,9 +59,15 @@
   width: 60rem;
   font-size: 1.2rem;
 }
+.textbox p{
+  text-align: justify;
+}
+.textboxl p{
+  text-align: justify;
+}
 
 .achievement{
-  height: 60vh;
+  height: 45vh;
   width: 100%;
   background-color: rgb(0, 0, 0);
   margin-top: 5vh;

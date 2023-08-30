@@ -80,7 +80,7 @@ const About = () => (
       <img  class="cc" src="4.jpeg" alt="Image" />
     <div className="textbox">
           <p>
-          Scope & Objectives: The primary purpose of this extraordinary forum
+            Scope & Objectives: The primary purpose of this extraordinary forum 
             is to provide students with an avenue to discover their hidden
             talents. By offering a platform for showcasing technical prowess,
             presentation skills, and effective communication, Samyog facilitates
@@ -95,7 +95,7 @@ const About = () => (
     </div>
   <div class="achievement">
   <center>
-        <h1 style={{ color: "beige" }}>ACHIEVEMENT IMAGES</h1>
+        <h1 className="aci"style={{ color: "beige" }}>ACHIEVEMENTS</h1>
       </center>
       <center>
         <div className="row-about">
@@ -120,23 +120,9 @@ const About = () => (
             <img src="Picture13.webp" />
             <img src="Picture14.webp" />
             <img src="Picture15.webp" />
-            <img src="1.jpeg" />
-            <img src="1.jpeg" />
-            <img src="1.jpeg" />
-          </div>
-        </div>
-
-        <div className="row-about">
-          <div className="images-about">
-            <img src="1.jpeg" />
-            <img src="1.jpeg" />
-            <img src="1.jpeg" />
-            <img src="1.jpeg" />
-            <img src="1.jpeg" />
-            <img src="1.jpeg" />
-            <img src="1.jpeg" />
-            <img src="1.jpeg" />
-            <img src="1.jpeg" />
+            <img src="n1.webp" />
+            <img src="n2.webp" />
+            <img src="n3.webp" />
           </div>
         </div>
       </center>

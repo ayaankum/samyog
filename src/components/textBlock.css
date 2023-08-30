@@ -58,6 +58,8 @@
   
   
   #textblock-content {
+    text-align: justify;
+    justify-content: inter-word;
     padding-top: 30px;
     color: #ffffff;
     font-size: 16px;

@@ -28,7 +28,7 @@ function Footer() {
             </p>
           </div>
           <div className="footer-column">
-            <h3 className="H3"
+            <h3 className="H3 con"
               style={{
                 color: "#20E7F4",
                 fontSize: "1.65rem",
@@ -40,9 +40,9 @@ function Footer() {
             <a className="linkF" href="mailto:isesamyog@gmail.com" class="email-link">
               isesamyog@gmail.com
             </a>
-            <p className="para" id="par123">1234567890</p>
+            <p className="para" id="par123">9632908348</p>
 
-            <h3 className="H3"
+            <h3 className="H3 mi"
               style={{
                 color: "#20E7F4",
                 fontSize: "1.65rem",
@@ -51,7 +51,7 @@ function Footer() {
             >
               MORE INFO
             </h3>
-            <a className="linkF" id="mrIFJss" href="mailto:samyogwebsite@gmail.com" class="email-link">
+            <a className="linkF" id="mrIFJss" href="https://www.jssateb.ac.in/is_engg" class="email-link">
               JSSATEB
             </a>
           </div>
@@ -74,17 +74,17 @@ function Footer() {
         <div className="footer-row ">
           <div className="footer-column">
             <p className="para" style={{ fontSize: "1.15rem" }}>
-              ©2023 Samyog All rights reserved
+              ©2023 Samyog. All rights reserved.
             </p>
           </div>
           <div className="footer-column">
-            <p className="para" style={{ fontSize: "1.15rem" }}>Made with passion by <Link to="/team" className="teamPL">AppX</Link></p> 
+            <p className="para" style={{ fontSize: "1.15rem" }}>Made with passion by <Link to="/team" className="teamPL">appX</Link></p> 
           </div>
           <div className="footer-column social-icons">
-            <FontAwesomeIcon icon={faWhatsapp} className="social-icon" />
-            <FontAwesomeIcon icon={faInstagram} className="social-icon" />
-            <FontAwesomeIcon icon={faFacebook} className="social-icon" />
-            <FontAwesomeIcon icon={faLinkedin} className="social-icon" />
+            {/* <FontAwesomeIcon icon={faWhatsapp} className="social-icon" /> */}
+            <a href="https://www.instagram.com/jssateb_official/"><FontAwesomeIcon icon={faInstagram} className="social-icon" /></a>
+            <a href="https://www.facebook.com/JSSATEBlore/"><FontAwesomeIcon icon={faFacebook} className="social-icon" /></a>
+            <a href="https://in.linkedin.com/school/j-s-s-academy-of-technical-education-bangalore/"><FontAwesomeIcon icon={faLinkedin} className="social-icon" /></a>
           </div>
         </div>
       </div>

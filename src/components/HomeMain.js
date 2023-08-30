@@ -22,8 +22,8 @@ function HomeMain(){
        <hr></hr>
        <Carousel/>
        <hr></hr>
-       <Events/>
-       <hr></hr>
+       {/* <Events/> */}
+       {/* <hr></hr> */}
        <Club/>
        <Footer/>
        </div>

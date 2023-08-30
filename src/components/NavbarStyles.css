@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Goldman&family=Poppins:wght@500&display=swap");
-
+@import url('https://fonts.googleapis.com/css2?family=Goldman&family=Yanone+Kaffeesatz:wght@200&display=swap');
 header{
   display: flex;
   gap: 210px;
@@ -18,17 +18,19 @@ header{
   cursor: pointer;
 }
 .COMPANY {
+  /* margin-top: -2.5rem; */
   font-family: "Goldman", cursive;
   font-size: 2.5rem;
+  margin-left: 13px;
 }
 .button-49,
 .button-49:after {
-  width: 150px;
-  height: 76px;
+  font-family: "Goldman", cursive;
+  /* width: 150px;
+  height: 76px; */
   line-height: 78px;
   font-size: 20px;
-  /* font-family: 'Bebas Neue', sans-serif; */
-  /* background: linear-gradient(45deg, transparent 5%, #FF013C 5%); */
+  
   border: 0;
   color: #fff;
   letter-spacing: 3px;
@@ -48,7 +50,7 @@ header{
   --slice-4: inset(40% -6px 43% 0);
   --slice-5: inset(80% -6px 5% 0);
   
-  content: 'AppX';
+  content: 'appX';
   color: aqua;
   /* text-shadow: red; */
   display: block;

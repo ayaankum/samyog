@@ -66,9 +66,8 @@ const Events = () => {
           </div>
           <div className="col-2 ha">
             <h5>
-              <b> Student development program</b>
+              <b>Operyio</b>
             </h5>
-            <h6>OPERATING SYSTEM</h6>
             <h7>🕗8:00 AM</h7>
             <br />
             <h7>📌Memorial Stadium</h7>
@@ -82,7 +81,7 @@ const Events = () => {
         <center>
           <Link to="/eventspage">
           <button className="button-53">
-            more events
+            MORE EVENTS
           </button>
           </Link>
           

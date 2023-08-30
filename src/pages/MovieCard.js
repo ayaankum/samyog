@@ -1,6 +1,6 @@
 import React from "react";
 import './Team.css'
-const MovieCard = ({ posterImage, title, description1,designation,description2 }) => {
+const MovieCard = ({ posterImage, title, description1,designation }) => {
   return (
     <div className="card">
       <div className="poster">
@@ -8,7 +8,7 @@ const MovieCard = ({ posterImage, title, description1,designation,description2 }
       </div>
       <div className="details">
         <h1>{title}</h1>
-        <p className="desc">{description1}<span style={{color:"aqua"}} className="designa">{designation}</span>{description2}</p>
+        <p className="desc"><span style={{color:"aqua"}} className="designa">{designation}</span><br/>{description1}</p>
       </div>
     </div>
   );
