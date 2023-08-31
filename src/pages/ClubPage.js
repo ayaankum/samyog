@@ -19,7 +19,7 @@ const ClubPage = () => {
         <a href="https://drive.google.com/file/d/12u3kzxFmB_VCA6FyxR_827DyUOSQu1Yy/view?usp=sharing" class="faculty">MEET OUR ESTEEMED FACULTY</a>
         <h2 className="sai71" style={{ color: "aqua" }}>
           Faculty Co-ordinators:
-          <b className="sai6"> SUKRUTHA C B, DUMMY NAME</b>
+          <b className="sai6"> SUKRUTHA C B, KAVYA T C</b>
         </h2>
         <h2 className="sai7" style={{ color: "aqua" }}>
           Student Co-ordinators:
